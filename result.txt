@@ -1,0 +1,6 @@
+USER=darya1
+HOME=/home/darya1
+LOGNAME=darya1
+USERNAME=darya1
+SESSION_MANAGER=local/darya1-VirtualBox:@/tmp/.ICE-unix/1572,unix/darya1-VirtualBox:/tmp/.ICE-unix/1572
+PWD=/home/darya1
